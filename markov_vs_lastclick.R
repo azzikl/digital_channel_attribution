@@ -8,7 +8,7 @@ library(RGA)
 authorize()
 
 #set property ID, start and end dates
-ids = 35536519
+#ids = propertyid
 start.date = as.Date("2017/01/18")
 end.date = as.Date("2017/01/18")
 
